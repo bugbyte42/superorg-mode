@@ -1,0 +1,2 @@
+HF_HOME=path/.cache/huggingface
+HF_HUB_CACHE=path/.cache/huggingface/hub
